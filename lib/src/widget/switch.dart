@@ -1,8 +1,8 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_neumorphic/src/widget/animation/animated_scale.dart'
+import 'package:neumorphic_ui/src/widget/animation/animated_scale.dart'
     as animationScale;
 
-import '../../flutter_neumorphic.dart';
+import '../../neumorphic_ui.dart';
 import '../neumorphic_box_shape.dart';
 import '../theme/neumorphic_theme.dart';
 import 'container.dart';

@@ -1,4 +1,4 @@
-import '../../flutter_neumorphic.dart';
+import '../../neumorphic_ui.dart';
 import 'rrect_path_provider.dart';
 
 class StadiumPathProvider extends RRectPathProvider {

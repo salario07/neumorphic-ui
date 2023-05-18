@@ -1,4 +1,4 @@
-library flutter_neumorphic;
+library neumorphic_ui;
 
 export 'package:flutter/material.dart'
     show

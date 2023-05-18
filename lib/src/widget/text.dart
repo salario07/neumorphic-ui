@@ -2,9 +2,9 @@ import 'dart:ui' as ui show FontFeature;
 
 import 'package:flutter/material.dart' as material;
 import 'package:flutter/widgets.dart';
-import 'package:flutter_neumorphic/src/decoration/neumorphic_text_decorations.dart';
+import 'package:neumorphic_ui/src/decoration/neumorphic_text_decorations.dart';
 
-import '../../flutter_neumorphic.dart';
+import '../../neumorphic_ui.dart';
 import '../theme/neumorphic_theme.dart';
 
 export '../decoration/neumorphic_decorations.dart';

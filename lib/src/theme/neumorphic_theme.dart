@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
-import '../../flutter_neumorphic.dart';
+import '../../neumorphic_ui.dart';
 import 'inherited_neumorphic_theme.dart';
 import 'theme.dart';
 import 'theme_wrapper.dart';
